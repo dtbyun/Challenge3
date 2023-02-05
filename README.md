@@ -1,8 +1,16 @@
 # Crypto-Arbitrage
 
-Evaluate four new investment options for inclusion in the client portfolios. Legendary fund and hedge-fund managers run all four selections and determine the fund with the most investment potential based on key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas.
+TThis app seeks potential profits from cryptocurrency exchange arbitrage involving Bitcoin by analyzing data from CSV files for a three-month period. The analysis reveals opportunities for arbitrage.
 
-Through historical trade data for Bitcoin on two exchanges: Bitstamp and Coinbase Apply the three phases of financial analysis to determine if any arbitrage opportunities exist for Bitcoin.
+## Technologies
+
+This project uses Python 3.7 and the following packages:
+
+Anaconda - Provides a pre-packaged set of libraries and tools for data analysis, machine learning, and visualization.
+
+Pandas - Widely used open-source data analysis and data manipulation library in Python.
+
+pathlib - The Path class from the pathlib module is used to represent a file system path.
 
 ---
 
@@ -12,17 +20,28 @@ Prepare the data
 
 Analyze the data
 
+---
+
+## Installation
+Clone Github repository http url to local desktop file
+
+pip install jupyter lab
+https://jupyter.org/install
+
+
+pip install pathlib
+https://docs.python.org/3/library/pathlib.html
+
+
+pip install pandas
+https://pandas.pydata.org/getting_started.html
+
+---
+## Example of usage
+
+Upon executing the notebook, you will be presented with several visual aids to assist with your analysis.
+
 
 
 ---
-## Prerequisites
-(Make sure you're on conda dev environment before installing streamlit)
-
-Screen Shot 2022-11-06 at 2 28 12 PM
-
 ## Usage
-Starter_Code > pychain.py
-
-Implement the blockchain fundamentals to create a custom application that can record and share data over the internet.
-
-Working screenshot

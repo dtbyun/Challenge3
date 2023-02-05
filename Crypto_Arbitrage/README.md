@@ -7,9 +7,7 @@ Crypto Arbitrage gains/loss data on Bitstamp and Coinbase.
 
 ---
 
-## Technologies
 
-Anaconda with Jupyter Lab and Python
 
 ---
 
