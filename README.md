@@ -41,6 +41,11 @@ https://pandas.pydata.org/getting_started.html
 
 Upon executing the notebook, you will be presented with several visual aids to assist with your analysis.
 
+<img width="971" alt="1" src="https://user-images.githubusercontent.com/107937930/216890322-39654a42-22e7-4260-9c13-169204181e3e.png">
+
+<img width="1082" alt="2" src="https://user-images.githubusercontent.com/107937930/216890347-0beedcf0-8807-41f3-b9b8-43efef89f5ed.png">
+
+<img width="593" alt="3" src="https://user-images.githubusercontent.com/107937930/216890371-8ed467b5-3ff9-4f55-b58d-9ee554f3eda6.png">
 
 
 ---
