@@ -1,5 +1,8 @@
 # Crypto-Arbitrage
 
+## About
+
+
 The app enables users to perform crypto arbitrage by buying Bitcoin at a lower price and selling it at a higher price on Bitstamp or Coinbase by analyzing data from CSV files for a three-month period, resulting in a profit from the price difference.
 
 ## Technologies
