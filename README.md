@@ -4,7 +4,7 @@ This app seeks potential profits from cryptocurrency exchange arbitrage involvin
 
 ## Technologies
 
-Uses Python 3.7 and the following packages:
+Uses Python 3.9.12 and the following packages:
 
 Anaconda - Provides a pre-packaged set of libraries and tools for data analysis, machine learning, and visualization.
 
