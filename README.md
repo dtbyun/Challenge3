@@ -1,10 +1,10 @@
 # Crypto-Arbitrage
 
-TThis app seeks potential profits from cryptocurrency exchange arbitrage involving Bitcoin by analyzing data from CSV files for a three-month period. The analysis reveals opportunities for arbitrage.
+This app seeks potential profits from cryptocurrency exchange arbitrage involving Bitcoin by analyzing data from CSV files for a three-month period. The analysis reveals opportunities for arbitrage.
 
 ## Technologies
 
-This project uses Python 3.7 and the following packages:
+Uses Python 3.7 and the following packages:
 
 Anaconda - Provides a pre-packaged set of libraries and tools for data analysis, machine learning, and visualization.
 
